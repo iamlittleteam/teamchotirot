@@ -1,0 +1,14 @@
+nav.header{
+    background-color: #5f4b8b;
+    color: white;
+}
+nav.header a.navbar-brand{
+    color: white;
+} 
+ul.navbar-nav li.nav-item a.nav-link{
+    color: white;
+}
+.navbar-toggler {
+    color: rgb(255, 0, 0);
+    border-color: rgba(255, 0, 0, 0.986);
+}
